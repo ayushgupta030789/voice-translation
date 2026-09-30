@@ -1,0 +1,6 @@
+quart>=0.19.6,<1.0
+hypercorn>=0.16,<1.0
+websockets>=13.1,<16
+azure-communication-callautomation>=1.4.0
+azure-core>=1.30.0
+azure-cognitiveservices-speech>=1.40.0
